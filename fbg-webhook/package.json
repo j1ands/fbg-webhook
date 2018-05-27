@@ -1,0 +1,9 @@
+{
+  "name": "fbg-webhook",
+  "version": "0.0.0",
+  "description": "fbg-webhook",
+  "main": "server.js",
+  "author": {
+    "name": "jlands"
+  }
+}
